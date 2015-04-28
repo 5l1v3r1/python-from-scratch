@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 item_catalog = {"Blank CD's":7.99,"USB Drives":12.50,"Keyboards":18.00}
 for x in item_catalog:
     print(x)
